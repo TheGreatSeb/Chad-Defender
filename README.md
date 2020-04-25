@@ -9,6 +9,9 @@ Click the link below to download the latest version of Chad Defender, To downloa
 [Download](https://www.google.com)
 
 ## Change list
+### Update 1.0.0
+Yay release!
+
 ### Update 0.2.2
 This update focuses on getting ready for releas, therefore there are only bugfixes.
 * *minor bugfixes
