@@ -9,6 +9,27 @@ Click the link below to download the latest version of Chad Defender, To downloa
 [Download](https://www.google.com)
 
 ## Change list
+### Update 0.2.2
+This update focuses on getting ready for releas, therefore there are only bugfixes.
+* *minor bugfixes
+
+### Update 0.2.1
+- New level select
+* *Minor bugfixes
+
+### Update 0.2.0
+Another major update!
+- 15 playable levels
+- 3 different level types (The Woods, The Arctic, The Ocean)
+
+### Update 0.1.2
+- New title image
+* *Minor bugfixes
+
+### Update 0.1.1
+- 3 working levels
+* *Minor bugfixes
+
 ### Update 0.1.0
 This is a major update since the game is now really playable, in that you can play on two levels indefinitely untill you die!
 
